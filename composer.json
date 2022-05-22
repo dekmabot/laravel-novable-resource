@@ -1,6 +1,6 @@
 {
     "name": "dekmabot/laravel-novable-resource",
-    "type": "project",
+    "type": "library",
     "description": "The laravel resource trait to auto generate laravel nova CRUD grids",
     "keywords": [
         "laravel",
@@ -9,8 +9,8 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.4|^8.0",
-        "laravel/framework": "^8.0|^9.0",
+        "php": "^7.4|^8.0|^8.1",
+        "laravel/framework": "^8.0|^9.0|^9.2",
         "laravel/nova": "^3.0"
     },
     "require-dev": {
